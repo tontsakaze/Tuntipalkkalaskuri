@@ -1,6 +1,7 @@
 # Tuntipalkkalaskuri
 * Tuntipalkan laskemisen tueksi suunniteltu ohjelma käyttöliittymällä
 * Käyttöliittymäohjelmointi-kurssin harjoitustyö
+* Suunnittelu ja toteutus täysin tyhjästä valmiiksi tuotteeksi
 * Toteutettu Java Swingillä, jonka tuli ehdottomasti noudattaa Grid-layouttia
 - - -
 Harjoitustyöni aiheena oli ohjelma, joka laskee tuntityöpalkkaisen työntekijän kuukausipalkan ottaen huomioon mahdolliset lisät, maksut ja vähennykset 
