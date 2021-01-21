@@ -1,0 +1,19 @@
+YLEISTÄ
+* Ensimmäinen laatikko kuvaa työvuoron alkamisaikaa ja
+  jälkimmäinen päättymisaikaa
+* Jos työpäivääsi kuuluu palkaton ruokatauko, voit
+  käyttää apuna saman päivän alempia kenttiä
+* Esim. Maanantai 6:00-14:00, joka sisältää palkattoman
+  puolen tunnin ruokatauon klo 11:30:
+     MA 6.00  11.30
+          12.00 14.00
+
+AJAN SYÖTTÖ
+* Ajan voi syöttää kolmessa eri muodossa: HH.mm / HH,mm / HH:mm
+* Aloitusajan arvo tulee olla väliltä 00:00-23:59
+* Lopetusajan arvo tulee olla väliltä 00:01-24:00
+* Aloitusaika tulee aina olla aikaisempi kuin lopetusajan
+* Lopetusajan tulee aina olla myöhäisempi kuin aloitusajan
+
+PAINIKKEET:
+X: Tyhjentää kaikki kyseisen viikon kentät
