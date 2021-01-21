@@ -2,7 +2,6 @@
 * Tuntipalkan laskemisen tueksi suunniteltu ohjelma käyttöliittymällä
 * Käyttöliittymäohjelmointi-kurssin harjoitustyö
 * Toteutettu Java Swingillä
-
 - - -
 Harjoitustyöni aiheena oli ohjelma, joka laskee tuntityöpalkkaisen työntekijän kuukausipalkan ottaen huomioon mahdolliset lisät, maksut ja vähennykset 
 mahdollisimman vähällä vaivalla. Ohjelma on tarkoitettu pääsääntöisesti itse työntekijöille, mutta sitä voivat myös käyttää pienyrittäjät.
