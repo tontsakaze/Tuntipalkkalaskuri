@@ -1,8 +1,9 @@
-# Tuntipalkkalaskuri / Java Swing
-Tuntipalkan laskemisen tueksi suunniteltu ohjelma käyttöliittymällä
+# Tuntipalkkalaskuri
+* Tuntipalkan laskemisen tueksi suunniteltu ohjelma käyttöliittymällä
+* Käyttöliittymäohjelmointi-kurssin harjoitustyö
+* Toteutettu Java Swingillä
 
-KÄYTTÖLIITTYMÄOHJELMOINTI-KURSSIN HARJOITUSTYÖ / UI PROGRAMING COURSE ASSIGNMENT
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - -
 Harjoitustyöni aiheena oli ohjelma, joka laskee tuntityöpalkkaisen työntekijän kuukausipalkan ottaen huomioon mahdolliset lisät, maksut ja vähennykset 
 mahdollisimman vähällä vaivalla. Ohjelma on tarkoitettu pääsääntöisesti itse työntekijöille, mutta sitä voivat myös käyttää pienyrittäjät.
 
@@ -19,3 +20,9 @@ The purpose of my assignment was to design and implement working software that c
 possible bonuses, payments and deductions with minimal effort. Software is mainly meant for employees.
 
 The software is only in finnish.
+
+- - -
+
+![alt text](https://github.com/tontsakaze/Tuntipalkkalaskuri/blob/master/documentation/img01.jpg?raw=true)
+![alt text](https://github.com/tontsakaze/Tuntipalkkalaskuri/blob/master/documentation/img02.jpg?raw=true)
+![alt text](https://github.com/tontsakaze/Tuntipalkkalaskuri/blob/master/documentation/img03.jpg?raw=true)
