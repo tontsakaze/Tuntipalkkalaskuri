@@ -1,0 +1,18 @@
+YLEISTÄ
+* Laske-painikkeella ohjelma tekee palkkalaskelman
+* Ohjelma nollaa laskelman joka kerta, kun vaihdat välilehteä
+* Tulot, sekä menot erotellaan ja näytetään lopullinen summa
+
+VASEMMANPUOLEISET KENTÄT
+* MAKSETAAN: Nettopalkka eli summa, joka maksetaan kaikkien
+                       vähennysten jälkeen
+* PERUSTUNNIT: Summa, joka tulee pelkästään tuntipalkasta
+* LISÄT: Summa, joka tulee pelkästään lisistä
+* MAKSUT: Yhteissumma kaikista bruttopalkasta maksettavista 
+                 vähennyksistä
+
+PAINIKKEET:
+* LASKE: Tekee palkkalaskelman annettujen tietojen perusteella
+* TALLENNA: Tallentaa tiedostoon laskelman muotoa: 
+                    pp-kk-vvvv_HHmm.txt
+                    Tiedosto löytyy kansiosta "calculations"

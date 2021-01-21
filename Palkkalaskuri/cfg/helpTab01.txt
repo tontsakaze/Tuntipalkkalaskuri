@@ -1,0 +1,33 @@
+
+VEROTIEDOT
+* Euromääräiset ja prosentuaaliset arvot tulee syöttää muodossa: xx,xx
+* Ohjelma ei ym. tapauksissa hyväksy eurojen ja senttien erotusta pisteellä
+* Jos "ANSAITTU (€)" ja "TULORAJA (€)" -kenttien arvo on nolla,
+  palkkalaskelma ei ota huomioon lisäveroprosenttia.
+
+AJAN SYÖTTÖ
+* Ajan voi syöttää kolmessa eri muodossa: HH.mm / HH,mm / HH:mm
+* Aloitusajan arvo tulee olla väliltä 00:00-23:59
+* Lopetusajan arvo tulee olla väliltä 00:01-24:00
+* Aloitusaika tulee aina olla aikaisempi kuin lopetusajan
+* Lopetusajan tulee aina olla myöhäisempi kuin aloitusajan
+
+TYÖEHTOSOPIMUKSET
+* Ohjelma etsii tes-nimisestä kansiosta .TESSIT-tiedostoja
+* Kaikki hyväksyttävät sopimukset ladataan ohjelmaan ja niiden
+  tiedot on mahdollista ladata täytettäviin kenttiin
+* Valitse vetovalikosta haluamasi sopimus ja lataa sen tiedot
+  painamalla "Aseta"-nappia
+
+OMA LISÄ
+* Sinulla on myös mahdollisuus luoda oma lisäsi
+* Valitse päivät, aikaväli ja määrä, joilta lisää maksetaan
+* Lisä voi myös olla prosentuaalinen osa bruttopalkasta, jolloin
+  voidaan valita "Prosentteina palkasta"-valintaruutu
+
+PAINIKKEET
+* Tyhjennä: Nollaa & tyhjentää kaikki täytettävät kentät
+* Oletus: Lataa tiedostosta oletustiedot kenttiin
+* Tallenna: Tallentaa täytettyjen kenttien tiedot tiedostoon
+* Lataa: Lataa aikaisemmin tallennettujen kenttien tiedot tiedostosta
+ 
